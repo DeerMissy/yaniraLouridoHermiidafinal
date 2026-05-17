@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yani\\Vitamini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D7281-7FBB-DDE6-5D93-73591DE48769}|Assembly-CSharp.csproj|C:\\Users\\Yani\\Vitamini\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82D7281-7FBB-DDE6-5D93-73591DE48769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D7281-7FBB-DDE6-5D93-73591DE48769}|Assembly-CSharp.csproj|c:\\users\\yani\\vitamini\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82D7281-7FBB-DDE6-5D93-73591DE48769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D7281-7FBB-DDE6-5D93-73591DE48769}|Assembly-CSharp.csproj|C:\\Users\\Yani\\Vitamini\\assets\\scripts\\player\\vitaminihealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82D7281-7FBB-DDE6-5D93-73591DE48769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\vitaminihealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D7281-7FBB-DDE6-5D93-73591DE48769}|Assembly-CSharp.csproj|C:\\Users\\Yani\\Vitamini\\assets\\scripts\\player\\vitaminimovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82D7281-7FBB-DDE6-5D93-73591DE48769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\vitaminimovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VitaminiHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Yani\\Vitamini\\Assets\\Scripts\\Player\\VitaminiHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\VitaminiHealth.cs",
+              "ToolTip": "C:\\Users\\Yani\\Vitamini\\Assets\\Scripts\\Player\\VitaminiHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\VitaminiHealth.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwFMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T18:31:45.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vitaminimovement.cs",
+              "DocumentMoniker": "C:\\Users\\Yani\\Vitamini\\Assets\\Scripts\\Player\\Vitaminimovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Vitaminimovement.cs",
+              "ToolTip": "C:\\Users\\Yani\\Vitamini\\Assets\\Scripts\\Player\\Vitaminimovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Vitaminimovement.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwIMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T18:24:02.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Yani\\Vitamini\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Yani\\Vitamini\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T20:03:43.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Yani\\Vitamini\\Assets\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
+              "ToolTip": "C:\\Users\\Yani\\Vitamini\\Assets\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T19:08:45.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
